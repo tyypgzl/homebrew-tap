@@ -1,6 +1,6 @@
 cask "screenshot" do
-  version "1.0.0"
-  sha256 "8a6cf1efcf2ff4160549e6dd04193bfa7514d3d8a009d668060ed9814b34a740"
+  version "1.0.1"
+  sha256 "fba09c5c3403dac2916b74fba3bf155f0ca6ceba76dd72bb06147411050e5df7"
 
   url "https://github.com/tyypgzl/screenshot/releases/download/v#{version}/Screenshot-v#{version}-mac.zip"
   name "Screenshot"
